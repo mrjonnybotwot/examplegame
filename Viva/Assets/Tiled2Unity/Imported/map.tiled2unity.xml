@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 13/02/2018 11:52:36-->
+<Tiled2Unity version="1.0.13.2">
+  <AssignMaterial mesh="map_mesh_0001" material="New Piskel (7)" />
+  <Prefab name="map" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="4" numTilesWide="75" numTilesHigh="75" tileWidth="16" tileHeight="16" exportScale="1" mapWidthInPixels="1200" mapHeightInPixels="1200" backgroundColor="#808080" scale="0.0625">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+    <GameObject name="Tile Layer 2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+    <GameObject name="Objects" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+    <GameObject name="Collision Layer" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="New Piskel (7)" x="0" y="0" mesh="map_mesh_0001" sortingLayerName="" sortingOrder="3" opacity="0.51" />
+      <GameObject name="Collision">
+        <PolygonCollider2D>
+          <Path>336,-64 336,-48 352,-48 352,-64 368,-64 368,0 320,0 320,-64</Path>
+        </PolygonCollider2D>
+      </GameObject>
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="map_mesh_0001.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ21hcF9tZXNoXzAwMDEub2JqJw0KDQojIFZlcnRpY2VzIChDb3VudCA9IDQ0KQ0KdiAtMzUyIC0xNiAwDQp2IC0zNjggLTE2IDANCnYgLTM2OCAwIDANCnYgLTM1MiAwIDANCnYgLTMzNiAtMTYgMA0KdiAtMzUyIC0xNiAwDQp2IC0zNTIgMCAwDQp2IC0zMzYgMCAwDQp2IC0zMjAgLTE2IDANCnYgLTMzNiAtMTYgMA0KdiAtMzM2IDAgMA0KdiAtMzIwIDAgMA0KdiAtMzUyIC0zMiAwDQp2IC0zNjggLTMyIDANCnYgLTM2OCAtMTYgMA0KdiAtMzUyIC0xNiAwDQp2IC0zMzYgLTMyIDANCnYgLTM1MiAtMzIgMA0KdiAtMzUyIC0xNiAwDQp2IC0zMzYgLTE2IDANCnYgLTMyMCAtMzIgMA0KdiAtMzM2IC0zMiAwDQp2IC0zMzYgLTE2IDANCnYgLTMyMCAtMTYgMA0KdiAtMzUyIC00OCAwDQp2IC0zNjggLTQ4IDANCnYgLTM2OCAtMzIgMA0KdiAtMzUyIC0zMiAwDQp2IC0zMzYgLTQ4IDANCnYgLTM1MiAtNDggMA0KdiAtMzUyIC0zMiAwDQp2IC0zMzYgLTMyIDANCnYgLTMyMCAtNDggMA0KdiAtMzM2IC00OCAwDQp2IC0zMzYgLTMyIDANCnYgLTMyMCAtMzIgMA0KdiAtMzUyIC02NCAwDQp2IC0zNjggLTY0IDANCnYgLTM2OCAtNDggMA0KdiAtMzUyIC00OCAwDQp2IC0zMjAgLTY0IDANCnYgLTMzNiAtNjQgMA0KdiAtMzM2IC00OCAwDQp2IC0zMjAgLTQ4IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAxIDANCnZ0IDEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIG1hcF9tZXNoXzAwMDENCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCmYgOS8xLzEgMTAvMi8xIDExLzMvMSAxMi80LzEKZiAxMy8xLzEgMTQvMi8xIDE1LzMvMSAxNi80LzEKZiAxNy8xLzEgMTgvMi8xIDE5LzMvMSAyMC80LzEKZiAyMS8xLzEgMjIvMi8xIDIzLzMvMSAyNC80LzEKZiAyNS8xLzEgMjYvMi8xIDI3LzMvMSAyOC80LzEKZiAyOS8xLzEgMzAvMi8xIDMxLzMvMSAzMi80LzEKZiAzMy8xLzEgMzQvMi8xIDM1LzMvMSAzNi80LzEKZiAzNy8xLzEgMzgvMi8xIDM5LzMvMSA0MC80LzEKZiA0MS8xLzEgNDIvMi8xIDQzLzMvMSA0NC80LzEKDQo=</ImportMesh>
+  <InternalTexture assetPath="Assets/Art/New Piskel (7).png" materialName="New Piskel (7)" />
+</Tiled2Unity>
